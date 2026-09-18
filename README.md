@@ -80,7 +80,8 @@ public class Movement : MonoBehaviour
 ```
 ## Output :
 
-![alt text](<Screenshot 2026-08-25 142936.png>)
+<img width="1910" height="1016" alt="Sample" src="https://github.com/user-attachments/assets/23d2aa32-96a9-4687-8ae2-fb4c54f6ef15" />
+
 
 ## Result :
 
